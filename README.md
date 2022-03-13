@@ -1,0 +1,2 @@
+# python_scraping_lesson
+Pythonを使ったスクレイピングレッスン
